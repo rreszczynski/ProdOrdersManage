@@ -1,0 +1,17 @@
+h1 {
+	text-align: center;
+}
+.description {
+	font-size: 3.6rem;
+	font-weight: 350;
+}
+
+.value{
+	font-size: 3.6rem;
+	font-weight: 300;
+	text-align: center;
+}
+
+.row-highlight:nth-child(odd) {
+	background-color: whitesmoke;
+}

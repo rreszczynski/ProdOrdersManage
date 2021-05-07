@@ -1,0 +1,10 @@
+/* chowanie strzałek przy polach formularza "number" w Chrome, Safari, Edge, Opera*/
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* chowanie strzałek przy polach formularza "number" w Firefox*/
+input[type=number] {
+  -moz-appearance: textfield;
+}

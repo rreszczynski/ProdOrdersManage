@@ -1,0 +1,13 @@
+.ca-button {
+	margin-bottom: 0;
+}
+
+.ca-error {
+	margin-top: 0.5rem;
+	color: red;
+	background-color: lightpink;
+	text-align: center;
+	border-style: solid 1px;
+	border-color: salmon;
+	border-radius: 4px;
+}
